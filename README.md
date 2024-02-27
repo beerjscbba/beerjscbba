@@ -61,7 +61,7 @@ meet(requisitos)
 ## 
 ## Auspicio
 ### ¿Quieres apoyar a beerjs?
-[contactanos](https://beerjscbba@gmail.com) :e-mail:
+[contactanos](mailto:beerjscbba@gmail.com) :e-mail:
 #### Siguenos en:
 
 - [Twitter](https://twitter.com/beerjscbba)
