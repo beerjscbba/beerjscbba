@@ -1,6 +1,6 @@
 # BeerJS Cochabamba, Bolivia
 
-![](./assets/beerjs_banner.png =200x300)
+![](./assets/beerjs_banner.png )
 
 ## Encuentro
 
